@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrTcN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55083292
+_cell_length_b   6.55083292
+_cell_length_c   6.70739726
+_cell_angle_alpha   75.63550886
+_cell_angle_beta   75.63550886
+_cell_angle_gamma   33.47731101
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTcN3
+_chemical_formula_sum   'Sr2 Tc2 N6'
+_cell_volume   153.35239473
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.61607417  0.61607417  0.67015644  1
+  Sr  Sr1  1  0.38392583  0.38392583  0.32984356  1
+  Tc  Tc2  1  0.15730040  0.15730040  0.14064942  1
+  Tc  Tc3  1  0.84269960  0.84269960  0.85935058  1
+  N  N4  1  0.31809570  0.31809570  0.98783189  1
+  N  N5  1  0.00681596  0.00681596  0.09149147  1
+  N  N6  1  0.99318404  0.99318404  0.90850853  1
+  N  N7  1  0.15632108  0.15632108  0.40431528  1
+  N  N8  1  0.68190430  0.68190430  0.01216811  1
+  N  N9  1  0.84367892  0.84367892  0.59568472  1

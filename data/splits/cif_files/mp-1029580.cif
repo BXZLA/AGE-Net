@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr4ZrN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50336456
+_cell_length_b   6.50701136
+_cell_length_c   9.80108108
+_cell_angle_alpha   80.43769579
+_cell_angle_beta   71.15830071
+_cell_angle_gamma   67.94457540
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4ZrN4
+_chemical_formula_sum   'Sr8 Zr2 N8'
+_cell_volume   363.33101116
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.39247712  0.25701308  0.81665773  1
+  Sr  Sr1  1  0.60752288  0.74298692  0.18334227  1
+  Sr  Sr2  1  0.75899769  0.24781704  0.01349699  1
+  Sr  Sr3  1  0.24100231  0.75218296  0.98650301  1
+  Sr  Sr4  1  0.52337298  0.26591381  0.42631426  1
+  Sr  Sr5  1  0.47662702  0.73408619  0.57368574  1
+  Sr  Sr6  1  0.04761500  0.76195033  0.39734612  1
+  Sr  Sr7  1  0.95238500  0.23804967  0.60265388  1
+  Zr  Zr8  1  0.15441059  0.28249429  0.23950897  1
+  Zr  Zr9  1  0.84558941  0.71750571  0.76049103  1
+  N  N10  1  0.30038169  0.02493402  0.38085728  1
+  N  N11  1  0.69961831  0.97506598  0.61914272  1
+  N  N12  1  0.15160220  0.14316212  0.06158629  1
+  N  N13  1  0.84839780  0.85683788  0.93841371  1
+  N  N14  1  0.36410933  0.48348716  0.19723988  1
+  N  N15  1  0.63589067  0.51651284  0.80276012  1
+  N  N16  1  0.17436650  0.51938713  0.62727904  1
+  N  N17  1  0.82563350  0.48061287  0.37272096  1

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CrNiAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.22514113
+_cell_length_b   6.22512293
+_cell_length_c   3.62792982
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.99993720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrNiAs
+_chemical_formula_sum   'Cr3 Ni3 As3'
+_cell_volume   121.75503161
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.40462074  0.40462106  0.50000000  1
+  Cr  Cr1  1  0.59537983  0.00000118  0.50000000  1
+  Cr  Cr2  1  0.00000036  0.59537957  0.50000000  1
+  Ni  Ni3  1  0.74466815  0.74466932  0.00000000  1
+  Ni  Ni4  1  0.99999700  0.25533164  0.00000000  1
+  Ni  Ni5  1  0.25533465  0.99999807  0.00000000  1
+  As  As6  1  0.66666773  0.33333449  0.00000000  1
+  As  As7  1  0.33333327  0.66666663  0.00000000  1
+  As  As8  1  0.99999828  0.99999804  0.50000000  1

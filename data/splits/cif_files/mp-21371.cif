@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.55285116
+_cell_length_b   5.96212535
+_cell_length_c   6.83136544
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VCoSi
+_chemical_formula_sum   'V4 Co4 Si4'
+_cell_volume   144.70569878
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.75000000  0.47496110  0.67795055  1
+  V  V1  1  0.25000000  0.02503890  0.17795055  1
+  V  V2  1  0.75000000  0.97496110  0.82204945  1
+  V  V3  1  0.25000000  0.52503890  0.32204945  1
+  Co  Co4  1  0.25000000  0.64281067  0.93891034  1
+  Co  Co5  1  0.25000000  0.14281067  0.56108966  1
+  Co  Co6  1  0.75000000  0.85718933  0.43891034  1
+  Co  Co7  1  0.75000000  0.35718933  0.06108966  1
+  Si  Si8  1  0.25000000  0.76689264  0.62385464  1
+  Si  Si9  1  0.25000000  0.26689264  0.87614536  1
+  Si  Si10  1  0.75000000  0.23310736  0.37614536  1
+  Si  Si11  1  0.75000000  0.73310736  0.12385464  1

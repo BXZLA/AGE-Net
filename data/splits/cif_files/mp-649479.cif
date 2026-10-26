@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(InSb3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62325657
+_cell_length_b   12.18655064
+_cell_length_c   14.37409753
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(InSb3)2
+_chemical_formula_sum   'Ca10 In4 Sb12'
+_cell_volume   809.85893918
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.00000000  0.67671920  0.98445071  1
+  Ca  Ca1  1  -0.00000000  0.82328080  0.48445071  1
+  Ca  Ca2  1  0.00000000  0.40936317  0.74759211  1
+  Ca  Ca3  1  -0.00000000  0.90936317  0.75240789  1
+  Ca  Ca4  1  0.00000000  0.59063683  0.25240789  1
+  Ca  Ca5  1  -0.00000000  0.17671920  0.51554929  1
+  Ca  Ca6  1  -0.00000000  0.09063683  0.24759211  1
+  Ca  Ca7  1  -0.00000000  -0.00000000  0.00000000  1
+  Ca  Ca8  1  0.00000000  0.32328080  0.01554929  1
+  Ca  Ca9  1  0.00000000  0.50000000  0.50000000  1
+  In  In10  1  0.50000000  0.66221122  0.78641324  1
+  In  In11  1  0.50000000  0.16221122  0.71358676  1
+  In  In12  1  0.50000000  0.83778878  0.28641324  1
+  In  In13  1  0.50000000  0.33778878  0.21358676  1
+  Sb  Sb14  1  0.50000000  0.96027928  0.59558354  1
+  Sb  Sb15  1  0.50000000  0.84990113  0.90749725  1
+  Sb  Sb16  1  -0.00000000  0.66274751  0.66968287  1
+  Sb  Sb17  1  0.50000000  0.46027928  0.90441646  1
+  Sb  Sb18  1  0.50000000  0.65009887  0.40749725  1
+  Sb  Sb19  1  0.50000000  0.15009887  0.09250275  1
+  Sb  Sb20  1  0.50000000  0.03972072  0.40441646  1
+  Sb  Sb21  1  -0.00000000  0.16274751  0.83031713  1
+  Sb  Sb22  1  -0.00000000  0.83725249  0.16968287  1
+  Sb  Sb23  1  0.50000000  0.53972072  0.09558354  1
+  Sb  Sb24  1  0.50000000  0.34990113  0.59250275  1
+  Sb  Sb25  1  -0.00000000  0.33725249  0.33031713  1

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Er2Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65351108
+_cell_length_b   5.65351108
+_cell_length_c   4.77176057
+_cell_angle_alpha   82.71639356
+_cell_angle_beta   82.71639356
+_cell_angle_gamma   105.35023294
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Si2O7
+_chemical_formula_sum   'Er2 Si2 O7'
+_cell_volume   143.82399376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.30794830  0.69205170  0.00000000  1
+  Er  Er1  1  0.69205170  0.30794830  0.00000000  1
+  Si  Si2  1  0.21889902  0.21889902  0.58949058  1
+  Si  Si3  1  0.78110098  0.78110098  0.41050942  1
+  O  O4  1  0.91504992  0.61437575  0.21915690  1
+  O  O5  1  0.38562425  0.08495008  0.78084310  1
+  O  O6  1  0.08495008  0.38562425  0.78084310  1
+  O  O7  1  0.61437575  0.91504992  0.21915690  1
+  O  O8  1  0.00000000  0.00000000  0.50000000  1
+  O  O9  1  0.61700537  0.61700537  0.71446246  1
+  O  O10  1  0.38299463  0.38299463  0.28553754  1

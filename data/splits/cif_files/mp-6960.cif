@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2SiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.55596998
+_cell_length_b   8.55596998
+_cell_length_c   8.55596998
+_cell_angle_alpha   135.44877522
+_cell_angle_beta   128.72827178
+_cell_angle_gamma   70.22963682
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2SiAs2
+_chemical_formula_sum   'Rb4 Si2 As4'
+_cell_volume   336.10041820
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.97727180  0.64371948  0.33355232  1
+  Rb  Rb1  1  0.02272820  0.35628052  0.66644768  1
+  Rb  Rb2  1  0.68983284  0.85628052  0.83355232  1
+  Rb  Rb3  1  0.31016716  0.14371948  0.16644768  1
+  Si  Si4  1  0.50000000  0.75000000  0.25000000  1
+  Si  Si5  1  0.50000000  0.25000000  0.75000000  1
+  As  As6  1  0.56116844  0.40333197  0.15783646  1
+  As  As7  1  0.43883156  0.59666803  0.84216354  1
+  As  As8  1  0.24549551  0.90333197  0.34216354  1
+  As  As9  1  0.75450449  0.09666803  0.65783646  1

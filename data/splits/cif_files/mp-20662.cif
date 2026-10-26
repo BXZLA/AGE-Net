@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sn4Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67486633
+_cell_length_b   6.67486633
+_cell_length_c   6.51470217
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.35318097
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sn4Pt
+_chemical_formula_sum   'Sn8 Pt2'
+_cell_volume   247.87087886
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.54147684  0.79202093  0.16692229  1
+  Sn  Sn1  1  0.45852316  0.20797907  0.16692229  1
+  Sn  Sn2  1  0.29202093  0.04147684  0.66692229  1
+  Sn  Sn3  1  0.70797907  0.95852316  0.66692229  1
+  Sn  Sn4  1  0.04147684  0.29202093  0.33307771  1
+  Sn  Sn5  1  0.95852316  0.70797907  0.33307771  1
+  Sn  Sn6  1  0.20797907  0.45852316  0.83307771  1
+  Sn  Sn7  1  0.79202093  0.54147684  0.83307771  1
+  Pt  Pt8  1  0.00000000  -0.00000000  0.00000000  1
+  Pt  Pt9  1  0.50000000  0.50000000  0.50000000  1

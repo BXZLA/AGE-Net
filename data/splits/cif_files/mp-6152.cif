@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_La2ZnIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82967287
+_cell_length_b   5.58567118
+_cell_length_c   9.72329930
+_cell_angle_alpha   54.90575992
+_cell_angle_beta   89.99968870
+_cell_angle_gamma   89.99605343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2ZnIrO6
+_chemical_formula_sum   'La4 Zn2 Ir2 O12'
+_cell_volume   259.05779825
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.56024151  0.73386099  0.75073936  1
+  La  La1  1  0.06023771  0.26613069  0.74926027  1
+  La  La2  1  0.93976229  0.73386931  0.25073973  1
+  La  La3  1  0.43975849  0.26613901  0.24926064  1
+  Zn  Zn4  1  0.50000000  0.50000000  0.50000000  1
+  Zn  Zn5  1  0.00000000  0.50000000  -0.00000000  1
+  Ir  Ir6  1  0.50000000  -0.00000000  -0.00000000  1
+  Ir  Ir7  1  0.00000000  -0.00000000  0.50000000  1
+  O  O8  1  0.52796778  0.84962686  0.24649405  1
+  O  O9  1  0.02797419  0.15037339  0.25350483  1
+  O  O10  1  0.47203222  0.15037314  0.75350595  1
+  O  O11  1  0.97202581  0.84962661  0.74649517  1
+  O  O12  1  0.80266246  0.65296021  0.54965514  1
+  O  O13  1  0.30267794  0.34704948  0.95034453  1
+  O  O14  1  0.19733754  0.34703979  0.45034486  1
+  O  O15  1  0.69732206  0.65295052  0.04965547  1
+  O  O16  1  0.20832347  0.75848026  0.05166661  1
+  O  O17  1  0.70831371  0.24153787  0.44832779  1
+  O  O18  1  0.79167653  0.24151974  0.94833339  1
+  O  O19  1  0.29168629  0.75846213  0.55167221  1

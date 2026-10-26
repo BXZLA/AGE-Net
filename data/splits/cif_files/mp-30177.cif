@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Y(Al2Cr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79593514
+_cell_length_b   6.79612671
+_cell_length_c   6.79538583
+_cell_angle_alpha   97.94208591
+_cell_angle_beta   97.94033682
+_cell_angle_gamma   136.34592990
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y(Al2Cr)4
+_chemical_formula_sum   'Y1 Al8 Cr4'
+_cell_volume   201.14037311
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  -0.00000000  -0.00000000  -0.00000000  1
+  Al  Al1  1  -0.00005307  0.66269027  0.66274482  1
+  Al  Al2  1  0.66270593  -0.00003758  0.66274482  1
+  Al  Al3  1  0.33729407  0.00003758  0.33725518  1
+  Al  Al4  1  0.00005307  0.33730973  0.33725518  1
+  Al  Al5  1  0.49993778  0.72303958  0.22310011  1
+  Al  Al6  1  0.72305752  0.49995523  0.22310021  1
+  Al  Al7  1  0.27694248  0.50004477  0.77689979  1
+  Al  Al8  1  0.50006222  0.27696042  0.77689989  1
+  Cr  Cr9  1  0.50000000  0.50000000  0.50000000  1
+  Cr  Cr10  1  0.50000000  -0.00000000  -0.00000000  1
+  Cr  Cr11  1  -0.00000000  0.50000000  -0.00000000  1
+  Cr  Cr12  1  -0.00000000  -0.00000000  0.50000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuBIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.65055327
+_cell_length_b   5.98871476
+_cell_length_c   5.46713855
+_cell_angle_alpha   70.80971317
+_cell_angle_beta   58.26018061
+_cell_angle_gamma   50.93010622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuBIr
+_chemical_formula_sum   'Cu4 B4 Ir4'
+_cell_volume   143.76960209
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.94063219  0.78986058  0.38631129  1
+  Cu  Cu1  1  0.46013942  0.30936781  0.36680406  1
+  Cu  Cu2  1  0.86368871  0.36680406  0.30936781  1
+  Cu  Cu3  1  0.88319594  0.38631129  0.78986058  1
+  B  B4  1  0.05339261  0.98221856  0.56572430  1
+  B  B5  1  0.68427570  0.85133546  0.19660739  1
+  B  B6  1  0.39866454  0.56572430  0.98221856  1
+  B  B7  1  0.26778144  0.19660739  0.85133546  1
+  Ir  Ir8  1  0.09719072  0.62943948  0.87124678  1
+  Ir  Ir9  1  0.37875322  0.84787598  0.15280928  1
+  Ir  Ir10  1  0.62056052  0.15280928  0.84787598  1
+  Ir  Ir11  1  0.40212402  0.87124678  0.62943948  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaMgSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.43073441
+_cell_length_b   7.47678102
+_cell_length_c   8.32021093
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgSi
+_chemical_formula_sum   'Ca4 Mg4 Si4'
+_cell_volume   275.62887704
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.01961875  0.18009592  1
+  Ca  Ca1  1  0.75000000  0.98038125  0.81990408  1
+  Ca  Ca2  1  0.25000000  0.51961875  0.31990408  1
+  Ca  Ca3  1  0.75000000  0.48038125  0.68009592  1
+  Mg  Mg4  1  0.75000000  0.85637125  0.43695433  1
+  Mg  Mg5  1  0.25000000  0.64362875  0.93695433  1
+  Mg  Mg6  1  0.75000000  0.35637125  0.06304567  1
+  Mg  Mg7  1  0.25000000  0.14362875  0.56304567  1
+  Si  Si8  1  0.25000000  0.26995697  0.88416608  1
+  Si  Si9  1  0.75000000  0.23004303  0.38416608  1
+  Si  Si10  1  0.25000000  0.76995697  0.61583392  1
+  Si  Si11  1  0.75000000  0.73004303  0.11583392  1

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Dy2B4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26786630
+_cell_length_b   5.26786630
+_cell_length_c   5.26786630
+_cell_angle_alpha   143.77404136
+_cell_angle_beta   102.84822296
+_cell_angle_gamma   88.33464702
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy2B4C
+_chemical_formula_sum   'Dy2 B4 C1'
+_cell_volume   81.31129630
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.23461891  0.23461891  0.00000000  1
+  Dy  Dy1  1  0.76538109  0.76538109  -0.00000000  1
+  B  B2  1  0.36530121  -0.00000000  0.36530121  1
+  B  B3  1  0.77275324  0.50000000  0.27275324  1
+  B  B4  1  0.63469879  0.00000000  0.63469879  1
+  B  B5  1  0.22724676  0.50000000  0.72724676  1
+  C  C6  1  -0.00000000  0.50000000  0.50000000  1

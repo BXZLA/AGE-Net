@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfGePt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.99562616
+_cell_length_b   6.66131407
+_cell_length_c   7.72556405
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfGePt
+_chemical_formula_sum   'Hf4 Ge4 Pt4'
+_cell_volume   205.62454568
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.75000000  0.47068513  0.31648424  1
+  Hf  Hf1  1  0.25000000  0.02931487  0.81648424  1
+  Hf  Hf2  1  0.75000000  0.97068513  0.18351576  1
+  Hf  Hf3  1  0.25000000  0.52931487  0.68351576  1
+  Ge  Ge4  1  0.25000000  0.24988701  0.12103388  1
+  Ge  Ge5  1  0.25000000  0.74988701  0.37896612  1
+  Ge  Ge6  1  0.75000000  0.75011299  0.87896612  1
+  Ge  Ge7  1  0.75000000  0.25011299  0.62103388  1
+  Pt  Pt8  1  0.25000000  0.64452576  0.06470640  1
+  Pt  Pt9  1  0.25000000  0.14452576  0.43529360  1
+  Pt  Pt10  1  0.75000000  0.85547424  0.56470640  1
+  Pt  Pt11  1  0.75000000  0.35547424  0.93529360  1

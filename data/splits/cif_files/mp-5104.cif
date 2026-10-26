@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaZnF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76258948
+_cell_length_b   6.76258948
+_cell_length_c   6.76258948
+_cell_angle_alpha   133.42136715
+_cell_angle_beta   133.42136715
+_cell_angle_gamma   67.99318679
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaZnF4
+_chemical_formula_sum   'Ca2 Zn2 F8'
+_cell_volume   160.32728300
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.25000000  0.75000000  0.50000000  1
+  Ca  Ca1  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn2  1  0.75000000  0.25000000  0.50000000  1
+  Zn  Zn3  1  0.00000000  0.00000000  0.00000000  1
+  F  F4  1  0.10100961  0.51360666  0.94006835  1
+  F  F5  1  0.91094126  0.35100961  0.08740295  1
+  F  F6  1  0.26360666  0.82353831  0.91259705  1
+  F  F7  1  0.57353831  0.16094126  0.05993165  1
+  F  F8  1  0.17646169  0.08905874  0.44006835  1
+  F  F9  1  0.48639334  0.42646169  0.58740295  1
+  F  F10  1  0.83905874  0.89899039  0.41259705  1
+  F  F11  1  0.64899039  0.73639334  0.55993165  1

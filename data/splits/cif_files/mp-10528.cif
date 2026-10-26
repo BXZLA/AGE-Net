@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ho2AlSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57665233
+_cell_length_b   5.57665233
+_cell_length_c   5.57665233
+_cell_angle_alpha   137.20977264
+_cell_angle_beta   118.51855684
+_cell_angle_gamma   77.80209208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2AlSi2
+_chemical_formula_sum   'Ho2 Al1 Si2'
+_cell_volume   100.66836249
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.71078638  0.21078638  0.50000000  1
+  Ho  Ho1  1  0.28921362  0.78921362  0.50000000  1
+  Al  Al2  1  -0.00000000  -0.00000000  -0.00000000  1
+  Si  Si3  1  0.28970652  0.50000000  0.78970652  1
+  Si  Si4  1  0.71029348  0.50000000  0.21029348  1

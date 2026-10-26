@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr(BIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.17326884
+_cell_length_b   6.19531354
+_cell_length_c   5.63319975
+_cell_angle_alpha   74.49478256
+_cell_angle_beta   56.32896690
+_cell_angle_gamma   49.17625054
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(BIr)2
+_chemical_formula_sum   'Sr2 B4 Ir4'
+_cell_volume   155.85035764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.50000000  0.50000000  1
+  Sr  Sr1  1  0.75000000  0.75000000  0.75000000  1
+  B  B2  1  0.82573848  0.17426152  0.82573848  1
+  B  B3  1  0.07573848  0.42426152  0.07573848  1
+  B  B4  1  0.17426152  0.82573848  0.17426152  1
+  B  B5  1  0.42426152  0.07573848  0.42426152  1
+  Ir  Ir6  1  0.13088745  0.13088745  0.86911255  1
+  Ir  Ir7  1  0.38088745  0.38088745  0.11911255  1
+  Ir  Ir8  1  0.11911255  0.11911255  0.38088745  1
+  Ir  Ir9  1  0.86911255  0.86911255  0.13088745  1

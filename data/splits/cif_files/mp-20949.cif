@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56435500
+_cell_length_b   5.85188706
+_cell_length_c   6.90263088
+_cell_angle_alpha   90.00004340
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnSiNi
+_chemical_formula_sum   'Mn4 Si4 Ni4'
+_cell_volume   143.97647545
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.75000000  0.46831674  0.32711914  1
+  Mn  Mn1  1  0.25000000  0.03168191  0.82711936  1
+  Mn  Mn2  1  0.75000000  0.96831809  0.17288064  1
+  Mn  Mn3  1  0.25000000  0.53168326  0.67288086  1
+  Si  Si4  1  0.25000000  0.25775534  0.12926755  1
+  Si  Si5  1  0.25000000  0.75775484  0.37073203  1
+  Si  Si6  1  0.75000000  0.74224466  0.87073245  1
+  Si  Si7  1  0.75000000  0.24224516  0.62926797  1
+  Ni  Ni8  1  0.25000000  0.64316611  0.05865957  1
+  Ni  Ni9  1  0.25000000  0.14316647  0.44134067  1
+  Ni  Ni10  1  0.75000000  0.85683353  0.55865933  1
+  Ni  Ni11  1  0.75000000  0.35683389  0.94134043  1

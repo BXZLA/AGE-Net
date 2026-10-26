@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SrIn2Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96409154
+_cell_length_b   5.96409154
+_cell_length_c   8.03683077
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.71389065
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrIn2Pd
+_chemical_formula_sum   'Sr2 In4 Pd2'
+_cell_volume   203.14975604
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.93904152  0.06095848  0.75000000  1
+  Sr  Sr1  1  0.06095848  0.93904152  0.25000000  1
+  In  In2  1  0.65202228  0.34797772  0.94568614  1
+  In  In3  1  0.34797772  0.65202228  0.05431386  1
+  In  In4  1  0.34797772  0.65202228  0.44568614  1
+  In  In5  1  0.65202228  0.34797772  0.55431386  1
+  Pd  Pd6  1  0.21968605  0.78031395  0.75000000  1
+  Pd  Pd7  1  0.78031395  0.21968605  0.25000000  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Zr3As2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77597703
+_cell_length_b   10.18917425
+_cell_length_c   10.62388150
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3As2
+_chemical_formula_sum   'Zr12 As8'
+_cell_volume   408.74415091
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.75000000  0.20450999  0.21491928  1
+  Zr  Zr1  1  0.25000000  0.70450999  0.28508072  1
+  Zr  Zr2  1  0.75000000  0.29549001  0.71491928  1
+  Zr  Zr3  1  0.25000000  0.79549001  0.78508072  1
+  Zr  Zr4  1  0.25000000  0.43244073  0.12394570  1
+  Zr  Zr5  1  0.75000000  0.93244073  0.37605430  1
+  Zr  Zr6  1  0.25000000  0.06755927  0.62394570  1
+  Zr  Zr7  1  0.75000000  0.56755927  0.87605430  1
+  Zr  Zr8  1  0.75000000  0.87497791  0.04456472  1
+  Zr  Zr9  1  0.25000000  0.37497791  0.45543528  1
+  Zr  Zr10  1  0.75000000  0.62502209  0.54456472  1
+  Zr  Zr11  1  0.25000000  0.12502209  0.95543528  1
+  As  As12  1  0.75000000  0.49983723  0.30557443  1
+  As  As13  1  0.25000000  0.99983723  0.19442557  1
+  As  As14  1  0.25000000  0.50016277  0.69442557  1
+  As  As15  1  0.75000000  0.00016277  0.80557443  1
+  As  As16  1  0.75000000  0.32035036  0.97168362  1
+  As  As17  1  0.25000000  0.82035036  0.52831638  1
+  As  As18  1  0.75000000  0.17964964  0.47168362  1
+  As  As19  1  0.25000000  0.67964964  0.02831638  1

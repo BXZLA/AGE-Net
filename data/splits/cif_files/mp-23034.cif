@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrZnCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.67021761
+_cell_length_b   8.67021761
+_cell_length_c   8.67021761
+_cell_angle_alpha   135.45636546
+_cell_angle_beta   135.45636546
+_cell_angle_gamma   64.82193191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrZnCl4
+_chemical_formula_sum   'Sr2 Zn2 Cl8'
+_cell_volume   316.14705121
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1
+  Sr  Sr1  1  0.75000000  0.25000000  0.50000000  1
+  Zn  Zn2  1  0.25000000  0.75000000  0.50000000  1
+  Zn  Zn3  1  0.50000000  0.50000000  0.00000000  1
+  Cl  Cl4  1  0.67944913  0.57488213  0.41524601  1
+  Cl  Cl5  1  0.32488213  0.40963611  0.39543299  1
+  Cl  Cl6  1  0.07055087  0.67511787  0.08475399  1
+  Cl  Cl7  1  0.73579688  0.32055087  0.89543299  1
+  Cl  Cl8  1  0.01420312  0.92944913  0.60456701  1
+  Cl  Cl9  1  0.59036389  0.98579688  0.91524601  1
+  Cl  Cl10  1  0.42511787  0.84036389  0.10456701  1
+  Cl  Cl11  1  0.15963611  0.26420312  0.58475399  1

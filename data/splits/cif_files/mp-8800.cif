@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TlCu3Se2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79872413
+_cell_length_b   7.79872413
+_cell_length_c   8.71075695
+_cell_angle_alpha   70.10307478
+_cell_angle_beta   70.10307478
+_cell_angle_gamma   29.45202823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCu3Se2
+_chemical_formula_sum   'Tl2 Cu6 Se4'
+_cell_volume   243.83382068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.86107201  0.86107201  0.05330114  1
+  Tl  Tl1  1  0.13892799  0.13892799  0.94669886  1
+  Cu  Cu2  1  0.68751355  0.68751355  0.55008374  1
+  Cu  Cu3  1  0.31248645  0.31248645  0.44991626  1
+  Cu  Cu4  1  0.58154185  0.58154185  0.37462084  1
+  Cu  Cu5  1  0.41845815  0.41845815  0.62537916  1
+  Cu  Cu6  1  0.05738047  0.05738047  0.59045217  1
+  Cu  Cu7  1  0.94261953  0.94261953  0.40954783  1
+  Se  Se8  1  0.47432757  0.47432757  0.22561630  1
+  Se  Se9  1  0.52567243  0.52567243  0.77438370  1
+  Se  Se10  1  0.19236203  0.19236203  0.32449918  1
+  Se  Se11  1  0.80763797  0.80763797  0.67550082  1

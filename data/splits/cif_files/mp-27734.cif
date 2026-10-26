@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CrBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90661277
+_cell_length_b   7.90661276
+_cell_length_c   7.90661305
+_cell_angle_alpha   48.10887781
+_cell_angle_beta   48.10887783
+_cell_angle_gamma   48.10888103
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrBr3
+_chemical_formula_sum   'Cr2 Br6'
+_cell_volume   250.99387067
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.66664722  0.66664722  0.66664722  1
+  Cr  Cr1  1  0.33335278  0.33335278  0.33335278  1
+  Br  Br2  1  0.93135288  0.57238893  0.29003271  1
+  Br  Br3  1  0.57238893  0.29003271  0.93135288  1
+  Br  Br4  1  0.29003271  0.93135288  0.57238893  1
+  Br  Br5  1  0.42761107  0.70996729  0.06864712  1
+  Br  Br6  1  0.70996729  0.06864712  0.42761107  1
+  Br  Br7  1  0.06864712  0.42761107  0.70996729  1

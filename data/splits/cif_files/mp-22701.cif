@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScFeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.05468704
+_cell_length_b   6.54298405
+_cell_length_c   6.66287607
+_cell_angle_alpha   89.99999853
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeSi
+_chemical_formula_sum   'Sc4 Fe4 Si4'
+_cell_volume   176.76445394
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.75000000  0.51290139  0.80868869  1
+  Sc  Sc1  1  0.25000000  0.98709832  0.30868914  1
+  Sc  Sc2  1  0.75000000  0.01290384  0.69131122  1
+  Sc  Sc3  1  0.25000000  0.48709629  0.19131105  1
+  Fe  Fe4  1  0.25000000  0.65303117  0.56206031  1
+  Fe  Fe5  1  0.25000000  0.15303263  0.93793976  1
+  Fe  Fe6  1  0.75000000  0.84696791  0.06205958  1
+  Fe  Fe7  1  0.75000000  0.34696873  0.43794058  1
+  Si  Si8  1  0.25000000  0.79916570  0.89216929  1
+  Si  Si9  1  0.25000000  0.29916772  0.60782988  1
+  Si  Si10  1  0.75000000  0.20083248  0.10783049  1
+  Si  Si11  1  0.75000000  0.70083381  0.39217000  1

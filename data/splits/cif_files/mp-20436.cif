@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77053810
+_cell_length_b   6.41896718
+_cell_length_c   7.35304606
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaSiRh
+_chemical_formula_sum   'Ta4 Si4 Rh4'
+_cell_volume   177.96548198
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.25000000  0.52571243  0.67302602  1
+  Ta  Ta1  1  0.75000000  0.47428757  0.32697398  1
+  Ta  Ta2  1  0.25000000  0.02571243  0.82697398  1
+  Ta  Ta3  1  0.75000000  0.97428757  0.17302602  1
+  Si  Si4  1  0.25000000  0.26709312  0.12465198  1
+  Si  Si5  1  0.75000000  0.73290688  0.87534802  1
+  Si  Si6  1  0.25000000  0.76709312  0.37534802  1
+  Si  Si7  1  0.75000000  0.23290688  0.62465198  1
+  Rh  Rh8  1  0.75000000  0.85501641  0.56375260  1
+  Rh  Rh9  1  0.25000000  0.14498359  0.43624740  1
+  Rh  Rh10  1  0.75000000  0.35501641  0.93624740  1
+  Rh  Rh11  1  0.25000000  0.64498359  0.06375260  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.08168591
+_cell_length_b   6.53882258
+_cell_length_c   7.27554657
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScSiRh
+_chemical_formula_sum   'Sc4 Si4 Rh4'
+_cell_volume   194.18011808
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.75000000  0.49160428  0.81062464  1
+  Sc  Sc1  1  0.25000000  0.00839572  0.31062464  1
+  Sc  Sc2  1  0.75000000  0.99160428  0.68937536  1
+  Sc  Sc3  1  0.25000000  0.50839572  0.18937536  1
+  Si  Si4  1  0.25000000  0.78584147  0.88619967  1
+  Si  Si5  1  0.25000000  0.28584147  0.61380033  1
+  Si  Si6  1  0.75000000  0.21415853  0.11380033  1
+  Si  Si7  1  0.75000000  0.71415853  0.38619967  1
+  Rh  Rh8  1  0.25000000  0.65640537  0.56389750  1
+  Rh  Rh9  1  0.25000000  0.15640537  0.93610250  1
+  Rh  Rh10  1  0.75000000  0.84359463  0.06389750  1
+  Rh  Rh11  1  0.75000000  0.34359463  0.43610250  1

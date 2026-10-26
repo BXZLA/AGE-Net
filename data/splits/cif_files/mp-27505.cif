@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Fe3Sn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29296159
+_cell_length_b   7.29294318
+_cell_length_c   7.29297752
+_cell_angle_alpha   42.88456611
+_cell_angle_beta   42.88449022
+_cell_angle_gamma   42.88424840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Sn2
+_chemical_formula_sum   'Fe6 Sn4'
+_cell_volume   162.78486185
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.12827269  0.60645566  0.60645735  1
+  Fe  Fe1  1  0.60645970  0.60645718  0.12826417  1
+  Fe  Fe2  1  0.60645843  0.12826972  0.60645591  1
+  Fe  Fe3  1  0.39354157  0.87173028  0.39354409  1
+  Fe  Fe4  1  0.87172731  0.39354434  0.39354265  1
+  Fe  Fe5  1  0.39354030  0.39354282  0.87173583  1
+  Sn  Sn6  1  0.10551717  0.10551348  0.10551660  1
+  Sn  Sn7  1  0.89448283  0.89448652  0.89448340  1
+  Sn  Sn8  1  0.33060910  0.33060886  0.33060837  1
+  Sn  Sn9  1  0.66939090  0.66939114  0.66939163  1

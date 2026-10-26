@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.01324131
+_cell_length_b   6.43838276
+_cell_length_c   6.96541577
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScSiNi
+_chemical_formula_sum   'Sc4 Si4 Ni4'
+_cell_volume   179.97787120
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.75000000  0.00647470  0.20244342  1
+  Sc  Sc1  1  0.25000000  0.99352530  0.79755658  1
+  Sc  Sc2  1  0.75000000  0.50647470  0.29755658  1
+  Sc  Sc3  1  0.25000000  0.49352530  0.70244342  1
+  Si  Si4  1  0.25000000  0.30047235  0.09368108  1
+  Si  Si5  1  0.75000000  0.69952765  0.90631892  1
+  Si  Si6  1  0.25000000  0.80047235  0.40631892  1
+  Si  Si7  1  0.75000000  0.19952765  0.59368108  1
+  Ni  Ni8  1  0.25000000  0.68392420  0.07912900  1
+  Ni  Ni9  1  0.75000000  0.31607580  0.92087100  1
+  Ni  Ni10  1  0.25000000  0.18392420  0.42087100  1
+  Ni  Ni11  1  0.75000000  0.81607580  0.57912900  1

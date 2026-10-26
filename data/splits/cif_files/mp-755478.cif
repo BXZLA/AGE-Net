@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CdBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08059766
+_cell_length_b   6.08059766
+_cell_length_c   6.08059788
+_cell_angle_alpha   57.92975961
+_cell_angle_beta   57.92975967
+_cell_angle_gamma   57.92975440
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBiO3
+_chemical_formula_sum   'Cd2 Bi2 O6'
+_cell_volume   151.42084108
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.36301309  0.36301309  0.36301309  1
+  Cd  Cd1  1  0.63409728  0.63409728  0.63409728  1
+  Bi  Bi2  1  0.14111063  0.14111063  0.14111063  1
+  Bi  Bi3  1  0.84950921  0.84950921  0.84950921  1
+  O  O4  1  0.73889926  0.04310092  0.48369636  1
+  O  O5  1  0.04310092  0.48369636  0.73889926  1
+  O  O6  1  0.48369636  0.73889926  0.04310092  1
+  O  O7  1  0.56705636  0.21509123  0.96399566  1
+  O  O8  1  0.96399566  0.56705636  0.21509123  1
+  O  O9  1  0.21509123  0.96399566  0.56705636  1

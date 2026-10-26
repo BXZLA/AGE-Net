@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cd4GeSe6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60405341
+_cell_length_b   7.60405341
+_cell_length_c   13.18538758
+_cell_angle_alpha   72.88061673
+_cell_angle_beta   72.88061673
+_cell_angle_gamma   60.06766919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd4GeSe6
+_chemical_formula_sum   'Cd8 Ge2 Se12'
+_cell_volume   621.34236754
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.92894633  0.71590441  0.49394327  1
+  Cd  Cd1  1  0.71590441  0.92894633  0.99394327  1
+  Cd  Cd2  1  0.40496103  0.19345149  0.30584526  1
+  Cd  Cd3  1  0.19345149  0.40496103  0.80584526  1
+  Cd  Cd4  1  0.71556016  0.56864498  0.30065164  1
+  Cd  Cd5  1  0.56864498  0.71556016  0.80065164  1
+  Cd  Cd6  1  0.21202172  0.80222593  0.14381473  1
+  Cd  Cd7  1  0.80222593  0.21202172  0.64381473  1
+  Ge  Ge8  1  0.34362703  0.80204803  0.55696528  1
+  Ge  Ge9  1  0.80204803  0.34362703  0.05696528  1
+  Se  Se10  1  0.56531372  0.07146957  0.80833369  1
+  Se  Se11  1  0.07146957  0.56531372  0.30833369  1
+  Se  Se12  1  0.52148712  0.00535208  0.50282848  1
+  Se  Se13  1  0.00535208  0.52148712  0.00282848  1
+  Se  Se14  1  0.46526659  0.91997920  0.18672768  1
+  Se  Se15  1  0.91997920  0.46526659  0.68672768  1
+  Se  Se16  1  0.77110771  0.22485240  0.24595842  1
+  Se  Se17  1  0.22485240  0.77110771  0.74595842  1
+  Se  Se18  1  0.47666207  0.51941205  0.00382547  1
+  Se  Se19  1  0.51941205  0.47666207  0.50382547  1
+  Se  Se20  1  0.01047127  0.04323512  0.97610708  1
+  Se  Se21  1  0.04323512  0.01047127  0.47610708  1

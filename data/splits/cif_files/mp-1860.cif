@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LaSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.00626573
+_cell_length_b   6.05464659
+_cell_length_c   8.45293798
+_cell_angle_alpha   90.00126319
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSi
+_chemical_formula_sum   'La4 Si4'
+_cell_volume   205.03888569
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.25000000  0.38659225  0.67977263  1
+  La  La1  1  0.75000000  0.61340775  0.32022737  1
+  La  La2  1  0.75000000  0.88659287  0.82023055  1
+  La  La3  1  0.25000000  0.11340713  0.17976945  1
+  Si  Si4  1  0.25000000  0.88315314  0.53327825  1
+  Si  Si5  1  0.75000000  0.11684686  0.46672175  1
+  Si  Si6  1  0.75000000  0.38315417  0.96672161  1
+  Si  Si7  1  0.25000000  0.61684583  0.03327839  1

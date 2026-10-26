@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ErTaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51479939
+_cell_length_b   6.51479939
+_cell_length_c   5.08009127
+_cell_angle_alpha   69.43988259
+_cell_angle_beta   69.43988259
+_cell_angle_gamma   115.02183908
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErTaO4
+_chemical_formula_sum   'Er2 Ta2 O8'
+_cell_volume   147.83224636
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.63143043  0.36856957  0.75000000  1
+  Er  Er1  1  0.36856957  0.63143043  0.25000000  1
+  Ta  Ta2  1  0.10216676  0.89783324  0.75000000  1
+  Ta  Ta3  1  0.89783324  0.10216676  0.25000000  1
+  O  O4  1  0.78567976  0.72255260  0.21552159  1
+  O  O5  1  0.27744740  0.21432024  0.28447841  1
+  O  O6  1  0.21432024  0.27744740  0.78447841  1
+  O  O7  1  0.72255260  0.78567976  0.71552159  1
+  O  O8  1  0.36911824  0.94871565  0.84084151  1
+  O  O9  1  0.05128435  0.63088176  0.65915849  1
+  O  O10  1  0.63088176  0.05128435  0.15915849  1
+  O  O11  1  0.94871565  0.36911824  0.34084151  1

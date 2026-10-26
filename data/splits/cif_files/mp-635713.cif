@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_TiZnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54106065
+_cell_length_b   5.54805821
+_cell_length_c   5.83679558
+_cell_angle_alpha   67.64396425
+_cell_angle_beta   65.07410321
+_cell_angle_gamma   70.23045459
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiZnO3
+_chemical_formula_sum   'Ti2 Zn2 O6'
+_cell_volume   147.06536553
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.24967987  0.09092119  0.91781507  1
+  Ti  Ti1  1  0.75032013  0.90907881  0.08218493  1
+  Zn  Zn2  1  0.55553475  0.41917646  0.25493380  1
+  Zn  Zn3  1  0.44446525  0.58082354  0.74506620  1
+  O  O4  1  0.30469770  0.34087952  0.61070526  1
+  O  O5  1  0.10408294  0.84523218  0.85299489  1
+  O  O6  1  0.54498966  0.77199274  0.96103357  1
+  O  O7  1  0.69530230  0.65912048  0.38929474  1
+  O  O8  1  0.89591706  0.15476782  0.14700511  1
+  O  O9  1  0.45501034  0.22800726  0.03896643  1

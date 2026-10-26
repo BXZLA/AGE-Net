@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca5Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15933315
+_cell_length_b   9.15933315
+_cell_length_c   9.15933261
+_cell_angle_alpha   130.68165558
+_cell_angle_beta   130.68165558
+_cell_angle_gamma   72.31935658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5Si3
+_chemical_formula_sum   'Ca10 Si6'
+_cell_volume   431.97300136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.53955791  0.67986303  0.50000000  1
+  Ca  Ca1  1  0.03955788  0.53955788  0.85969497  1
+  Ca  Ca2  1  0.67986292  0.17986292  0.14030503  1
+  Ca  Ca3  1  0.96044212  0.46044212  0.14030503  1
+  Ca  Ca4  1  0.17986303  0.03955791  0.50000000  1
+  Ca  Ca5  1  0.46044209  0.32013697  0.50000000  1
+  Ca  Ca6  1  0.82013697  0.96044209  0.50000000  1
+  Ca  Ca7  1  0.32013708  0.82013708  0.85969497  1
+  Ca  Ca8  1  0.00000000  0.00000000  -0.00000000  1
+  Ca  Ca9  1  0.50000000  0.50000000  -0.00000000  1
+  Si  Si10  1  0.61253195  0.11253195  0.72506391  1
+  Si  Si11  1  0.11253195  0.38746805  0.50000000  1
+  Si  Si12  1  0.88746805  0.61253195  0.50000000  1
+  Si  Si13  1  0.38746805  0.88746805  0.27493609  1
+  Si  Si14  1  0.25000000  0.25000000  -0.00000000  1
+  Si  Si15  1  0.75000000  0.75000000  -0.00000000  1

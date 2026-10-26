@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HfTiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76806689
+_cell_length_b   5.67637370
+_cell_length_c   10.15887412
+_cell_angle_alpha   90.27120854
+_cell_angle_beta   90.95820890
+_cell_angle_gamma   90.14117622
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTiO4
+_chemical_formula_sum   'Hf4 Ti4 O16'
+_cell_volume   274.91085655
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.00572365  0.32778679  0.12021582  1
+  Hf  Hf1  1  0.49990743  0.82229890  0.12182600  1
+  Hf  Hf2  1  0.50407796  0.18294167  0.38024543  1
+  Hf  Hf3  1  0.49715545  0.81434056  0.62736840  1
+  Ti  Ti4  1  0.99722376  0.68468258  0.87230853  1
+  Ti  Ti5  1  0.00318199  0.32482692  0.62838517  1
+  Ti  Ti6  1  0.99594206  0.67190944  0.37741274  1
+  Ti  Ti7  1  0.50235210  0.18891709  0.87116294  1
+  O  O8  1  0.24636031  0.38866048  0.95371879  1
+  O  O9  1  0.21733599  0.38714192  0.47146751  1
+  O  O10  1  0.22831674  0.60853527  0.21881972  1
+  O  O11  1  0.20179785  0.61166013  0.71395260  1
+  O  O12  1  0.25610451  0.88576122  0.95350319  1
+  O  O13  1  0.27005988  0.12112712  0.70956718  1
+  O  O14  1  0.28429038  0.10806198  0.20902785  1
+  O  O15  1  0.26743219  0.88009260  0.45601365  1
+  O  O16  1  0.72690093  0.88235244  0.79698895  1
+  O  O17  1  0.74460979  0.88482725  0.29458227  1
+  O  O18  1  0.73584813  0.11218972  0.55028441  1
+  O  O19  1  0.71103753  0.11577905  0.03246614  1
+  O  O20  1  0.79047207  0.61555850  0.03210769  1
+  O  O21  1  0.77438986  0.60477546  0.53334721  1
+  O  O22  1  0.77816435  0.39424202  0.28786847  1
+  O  O23  1  0.76131409  0.38153488  0.78735831  1

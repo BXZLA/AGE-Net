@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BH6N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99824753
+_cell_length_b   5.41714054
+_cell_length_c   5.23941022
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BH6N
+_chemical_formula_sum   'B2 H12 N2'
+_cell_volume   141.86336785
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.17563059  0.00283158  0.00000000  1
+  B  B1  1  0.82436941  0.50283158  0.50000000  1
+  H  H2  1  0.72400107  0.41493756  0.30790377  1
+  H  H3  1  0.86027204  0.87606115  0.34149100  1
+  H  H4  1  0.72400107  0.41493756  0.69209623  1
+  H  H5  1  0.27599893  0.91493756  0.80790377  1
+  H  H6  1  0.27599893  0.91493756  0.19209623  1
+  H  H7  1  0.06780092  0.47062737  0.50000000  1
+  H  H8  1  0.93219908  0.97062737  0.00000000  1
+  H  H9  1  0.13972796  0.37606115  0.15850900  1
+  H  H10  1  0.42370756  0.33928181  0.00000000  1
+  H  H11  1  0.57629244  0.83928181  0.50000000  1
+  H  H12  1  0.86027204  0.87606115  0.65850900  1
+  H  H13  1  0.13972796  0.37606115  0.84149100  1
+  N  N14  1  0.77568719  0.79426082  0.50000000  1
+  N  N15  1  0.22431281  0.29426082  0.00000000  1

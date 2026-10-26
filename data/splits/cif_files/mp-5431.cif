@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaTeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.07226949
+_cell_length_b   4.65127451
+_cell_length_c   7.25184970
+_cell_angle_alpha   73.12104577
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaTeO3
+_chemical_formula_sum   'Ba2 Te2 O6'
+_cell_volume   195.99616376
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.25000000  0.33984467  0.31362217  1
+  Ba  Ba1  1  0.75000000  0.66015533  0.68637783  1
+  Te  Te2  1  0.25000000  0.06956136  0.85224261  1
+  Te  Te3  1  0.75000000  0.93043864  0.14775739  1
+  O  O4  1  0.51415603  0.82636629  0.32624380  1
+  O  O5  1  0.01415603  0.17363371  0.67375620  1
+  O  O6  1  0.48584397  0.17363371  0.67375620  1
+  O  O7  1  0.98584397  0.82636629  0.32624380  1
+  O  O8  1  0.75000000  0.35307363  0.10209102  1
+  O  O9  1  0.25000000  0.64692637  0.89790898  1

@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agenet-reproducibility"
+version = "0.1.0"
+description = "Angle-gated crystal graphs for elastic-modulus prediction"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "torch==2.8.0",
+    "numpy==1.26.4",
+    "pandas==2.3.3",
+    "pymatgen==2024.8.9",
+]
+
+[project.scripts]
+agenet-predict = "agenet.predict:main"
+agenet-train = "agenet.train:main"
+agenet-check = "agenet.check:main"
+
+[tool.setuptools]
+packages = ["agenet"]
+
+[tool.black]
+line-length = 88
+target-version = ["py39"]

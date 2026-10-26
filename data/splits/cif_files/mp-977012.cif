@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_H6PbCBr3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03762360
+_cell_length_b   6.05890137
+_cell_length_c   6.16326592
+_cell_angle_alpha   90.96899051
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H6PbCBr3N
+_chemical_formula_sum   'H6 Pb1 C1 Br3 N1'
+_cell_volume   225.42844364
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.86052427  0.77400632  0.97723331  1
+  H  H1  1  0.00000000  0.83054966  0.20381215  1
+  H  H2  1  0.85108959  0.16998848  0.04880061  1
+  H  H3  1  -0.00000000  0.10627560  0.80351498  1
+  H  H4  1  0.14891041  0.16998848  0.04880061  1
+  H  H5  1  0.13947573  0.77400632  0.97723331  1
+  Pb  Pb6  1  0.50000000  0.53656385  0.48542177  1
+  C  C7  1  -0.00000000  0.09307532  0.98028994  1
+  Br  Br8  1  0.50000000  0.57634671  0.97376978  1
+  Br  Br9  1  0.00000000  0.58027136  0.51111682  1
+  Br  Br10  1  0.50000000  0.05560566  0.44792168  1
+  N  N11  1  -0.00000000  0.85488824  0.03722504  1

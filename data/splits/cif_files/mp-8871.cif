@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_CsNa2BO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67436499
+_cell_length_b   5.85630137
+_cell_length_c   6.32020503
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNa2BO3
+_chemical_formula_sum   'Cs2 Na4 B2 O6'
+_cell_volume   210.02541537
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.87340763  0.50000000  0.50000000  1
+  Cs  Cs1  1  0.12659237  0.00000000  -0.00000000  1
+  Na  Na2  1  0.36011381  0.50000000  0.76861863  1
+  Na  Na3  1  0.36011381  0.50000000  0.23138137  1
+  Na  Na4  1  0.63988619  -0.00000000  0.73138137  1
+  Na  Na5  1  0.63988619  0.00000000  0.26861863  1
+  B  B6  1  0.78118605  0.50000000  -0.00000000  1
+  B  B7  1  0.21881395  0.00000000  0.50000000  1
+  O  O8  1  0.65123225  0.29447453  0.00000000  1
+  O  O9  1  0.34876775  0.20552547  0.50000000  1
+  O  O10  1  0.02650499  0.50000000  0.00000000  1
+  O  O11  1  0.97349501  0.00000000  0.50000000  1
+  O  O12  1  0.34876775  0.79447453  0.50000000  1
+  O  O13  1  0.65123225  0.70552547  0.00000000  1

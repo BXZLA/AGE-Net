@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoMoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74239895
+_cell_length_b   5.81160952
+_cell_length_c   6.73972266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoMoP
+_chemical_formula_sum   'Co4 Mo4 P4'
+_cell_volume   146.58466364
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.75000000  0.64027518  0.43278666  1
+  Co  Co1  1  0.25000000  0.85972482  0.93278666  1
+  Co  Co2  1  0.75000000  0.14027518  0.06721334  1
+  Co  Co3  1  0.25000000  0.35972482  0.56721334  1
+  Mo  Mo4  1  0.25000000  0.46781550  0.17006746  1
+  Mo  Mo5  1  0.25000000  0.96781550  0.32993254  1
+  Mo  Mo6  1  0.75000000  0.03218450  0.67006746  1
+  Mo  Mo7  1  0.75000000  0.53218450  0.82993254  1
+  P  P8  1  0.25000000  0.73369489  0.61931931  1
+  P  P9  1  0.25000000  0.23369489  0.88068069  1
+  P  P10  1  0.75000000  0.26630511  0.38068069  1
+  P  P11  1  0.75000000  0.76630511  0.11931931  1
