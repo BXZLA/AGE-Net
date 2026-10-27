@@ -1,5 +1,3 @@
-"""Target normalization, checkpoint loading and reproducible initialization."""
-
 import random
 
 import numpy as np
@@ -7,7 +5,6 @@ import torch
 
 
 class Normalizer:
-    """Standardize log10 labels using training-only statistics."""
 
     def __init__(self, tensor=None):
         self.mean = torch.mean(tensor) if tensor is not None else torch.tensor(0.0)
@@ -47,7 +44,7 @@ def infer_n_conv(state_dict):
 
 
 def load_checkpoint(path):
-    """Load the trusted weights distributed with this repository."""
+
     return torch.load(path, map_location="cpu", weights_only=False)
 
 

@@ -1,9 +1,3 @@
-"""Crystal and line-graph construction for AGE-Net.
-
-Atom initialization and distance-based graph construction derive from CGCNN
-(Copyright Tian Xie); see ../LICENSE_CGCNN for its MIT license.
-"""
-
 import csv
 import functools
 import json
@@ -16,7 +10,7 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset
 
-# Preserve the neighbor-kernel dtypes and memory layout used during training.
+
 try:
     import pymatgen.optimization.neighbors as _pon
     from pymatgen.optimization.neighbors import find_points_in_spheres as _orig_fps
@@ -42,7 +36,6 @@ EPS = 1e-10
 
 
 class GaussianDistance(object):
-    """Expand interatomic distances in angstroms using Gaussian basis functions."""
 
     def __init__(self, dmin, dmax, step, var=None):
         assert dmin < dmax
@@ -53,12 +46,11 @@ class GaussianDistance(object):
         self.var = var
 
     def expand(self, distances):
-        """Append a Gaussian basis dimension to the distance array."""
+
         return np.exp(-((distances[..., np.newaxis] - self.filter) ** 2) / self.var**2)
 
 
 class AtomInitializer(object):
-    """Map atomic numbers to fixed feature vectors for one dataset."""
 
     def __init__(self, atom_types):
         self.atom_types = set(atom_types)
@@ -87,7 +79,6 @@ class AtomInitializer(object):
 
 
 class AtomCustomJSONInitializer(AtomInitializer):
-    """Load atomic-number feature vectors from a JSON mapping."""
 
     def __init__(self, elem_embedding_file):
         with open(elem_embedding_file) as f:
@@ -100,7 +91,6 @@ class AtomCustomJSONInitializer(AtomInitializer):
 
 
 class _CrystalDataset(Dataset):
-    """Load id_prop.csv, atom_init.json and ID.cif files from one directory."""
 
     def __init__(
         self, root_dir, max_num_nbr=12, radius=8, dmin=0, step=0.2, random_seed=123
@@ -125,7 +115,7 @@ class _CrystalDataset(Dataset):
 
     @functools.lru_cache(maxsize=None)
     def __getitem__(self, idx):
-        """Return atom features, padded neighbor features and indices, target and ID."""
+
         cif_id, target = self.id_prop_data[idx]
 
         crystal = Structure.from_file(os.path.join(self.root_dir, cif_id + ".cif"))
@@ -187,7 +177,7 @@ def sorted_neighbors(structure, radius, max_num_nbr):
 def build_linegraph_edge_pairs(
     structure, radius=8.0, max_num_nbr=12, max_triplets_per_atom=66
 ):
-    """Connect pairs of directed neighbor edges sharing a center; angles are radians."""
+
     lg_src, lg_dst, lg_angle, lg_center, lg_center_z = [], [], [], [], []
     all_nbrs = sorted_neighbors(structure, radius, max_num_nbr)
     for center_idx, nbrs in enumerate(all_nbrs):
@@ -259,7 +249,6 @@ def manual_angle_from_neighbors(
 
 
 class CrystalDataset(_CrystalDataset):
-    """Crystal graphs with directed edge pairs and bond angles from CIF geometry."""
 
     @functools.lru_cache(maxsize=None)
     def _linegraph(self, idx):
@@ -305,7 +294,7 @@ class CrystalDataset(_CrystalDataset):
 
 
 def collate_graphs(dataset_list):
-    """Batch crystal graphs, offset atom and edge indices, and stack targets."""
+
     batch_atom_fea, batch_nbr_fea, batch_nbr_fea_idx = [], [], []
     crystal_atom_idx, batch_target, batch_cif_ids = [], [], []
     lg_src_all, lg_dst_all, lg_angle_all, lg_center_all, lg_center_z_all = (

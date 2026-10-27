@@ -1,5 +1,3 @@
-"""Fourier and scalar bond-angle encoders."""
-
 import math
 
 import torch
@@ -7,7 +5,6 @@ import torch.nn as nn
 
 
 class FourierFeatureMapping(nn.Module):
-    """Encode radian angles as sin(2*pi*n*theta) and cos(2*pi*n*theta)."""
 
     def __init__(self, num_frequencies=5):
         super(FourierFeatureMapping, self).__init__()
@@ -33,7 +30,6 @@ class FourierFeatureMapping(nn.Module):
 
 
 class FourierAngleEncoder(nn.Module):
-    """Project Fourier angle features into the edge hidden dimension."""
 
     def __init__(self, fc_features, num_frequencies=5):
         super(FourierAngleEncoder, self).__init__()
@@ -68,12 +64,11 @@ class FourierAngleEncoder(nn.Module):
 
 
 def angle_embedding(fc_features, num_frequencies=5):
-    """Build the Fourier angle encoder used by AGE-Net."""
+
     return FourierAngleEncoder(fc_features=fc_features, num_frequencies=num_frequencies)
 
 
 class PlainAngleEncoder(nn.Module):
-    """Encode theta/pi for the scalar-angle architecture variant."""
 
     def __init__(self, fc_features, num_frequencies=5):
         super(PlainAngleEncoder, self).__init__()

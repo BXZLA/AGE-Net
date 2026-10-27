@@ -1,5 +1,3 @@
-"""AGE-Net: angle-gated crystal graphs for elastic-modulus prediction."""
-
 from .model import AGENet
 
 __all__ = ["AGENet"]

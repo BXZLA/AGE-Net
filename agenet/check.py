@@ -1,5 +1,3 @@
-"""Check the released data, model weights, inference and a backward step."""
-
 from __future__ import annotations
 
 import argparse

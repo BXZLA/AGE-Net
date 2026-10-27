@@ -1,5 +1,3 @@
-"""Predict elastic moduli with the released AGE-Net weights."""
-
 from __future__ import annotations
 
 import argparse
@@ -54,7 +52,7 @@ def prepared_dataset(
     cif_dir: Path = DEFAULT_CIF_DIR,
     atom_init: Path = DEFAULT_ATOM_INIT,
 ) -> Iterator[CrystalDataset]:
-    """Prepare crystal-graph inputs for an ordered material table."""
+
     cif_dir = Path(cif_dir).resolve()
     atom_init = Path(atom_init).resolve()
     missing = [

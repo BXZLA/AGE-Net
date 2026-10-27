@@ -1,9 +1,3 @@
-"""AGE-Net architecture and checkpoint-compatible model construction.
-
-ConvLayer derives from CGCNN (Copyright Tian Xie); see ../LICENSE_CGCNN
-for its MIT license.
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -11,7 +5,6 @@ import torch.nn.functional as F
 from .angles import PlainAngleEncoder, angle_embedding
 
 
-# Historical architecture identifiers are retained for saved checkpoints.
 VALID_ARCHS = (
     "param_matched_cgcnn",
     "dslapm_edge_cgcnn",
@@ -20,7 +13,6 @@ VALID_ARCHS = (
 
 
 class ConvLayer(nn.Module):
-    """Gated atom messages with distance features and a residual update."""
 
     def __init__(self, atom_fea_len, nbr_fea_len):
         super(ConvLayer, self).__init__()
@@ -37,7 +29,7 @@ class ConvLayer(nn.Module):
         self.softplus2 = nn.Softplus()
 
     def forward(self, atom_in_fea, nbr_fea, nbr_fea_idx):
-        """Update atom states from neighbor features shaped (N, M, D)."""
+
         N, M = nbr_fea_idx.shape
 
         atom_nbr_fea = atom_in_fea[nbr_fea_idx, :]
@@ -67,7 +59,6 @@ class ConvLayer(nn.Module):
 
 
 class AngleGatedEdgeConv(nn.Module):
-    """Refine directed edge states using angle-gated line-graph messages."""
 
     def __init__(self, fc_features):
         super(AngleGatedEdgeConv, self).__init__()
@@ -120,7 +111,6 @@ class AngleGatedEdgeConv(nn.Module):
 
 
 class AGENet(nn.Module):
-    """Angle-gated edge refinement followed by crystal graph convolutions."""
 
     def __init__(
         self,
@@ -245,7 +235,6 @@ class AGENet(nn.Module):
 
 
 def build_model(arch, fc_edge=64, num_frequencies=5):
-    """Return a dataset-aware model factory with the saved training dimensions."""
 
     def _build_model(dataset, cuda, n_conv=4):
         structures, _, _ = dataset[0]

@@ -1,5 +1,3 @@
-"""Train a property-specific AGE-Net model on the fixed mixed training pool."""
-
 import argparse
 import csv
 import shutil
@@ -21,7 +19,7 @@ from .utils import Normalizer, load_checkpoint, move_inputs, resolve_device, set
 
 
 def prepare_training_folder(folder, frame, prop):
-    """Materialize graph inputs while preserving the original row order."""
+
     folder.mkdir(parents=True, exist_ok=True)
     with (folder / "id_prop.csv").open("w", newline="") as handle:
         writer = csv.writer(handle)
@@ -42,7 +40,7 @@ def build_normalizer(dataset):
 
 
 def run_epoch(loader, model, criterion, optimizer, normalizer, device, train):
-    """Optimize MSE, reporting MAE in unstandardized log10 space."""
+
     model.train() if train else model.eval()
     total, count = 0.0, 0
     context = torch.enable_grad() if train else torch.no_grad()
@@ -152,7 +150,7 @@ def train(args):
     val_ds = CrystalDataset(str(val_folder))
 
     generator = torch.Generator().manual_seed(args.seed)
-    # BatchNorm cannot train on a trailing batch containing one structure.
+
     drop_last = (len(train_ds) % config.BATCH_SIZE) == 1
     train_loader = DataLoader(
         train_ds,
